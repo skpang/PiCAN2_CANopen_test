@@ -2,9 +2,9 @@
 
 # This is a python3 demo of controlling a Nanotec CL3-E-1-0F stepping motor controller using CANopen with PiCAN2 board.
 #
-# http://skpang.co.uk/catalog/pican2-canbus-board-for-raspberry-pi-2-p-1475.html
+#https://www.skpang.co.uk/collections/hats/products/pican2-can-bus-board-for-raspberry-pi-2-3
 #
-# Make sure PiCAN driver is installed first http://skpang.co.uk/blog/archives/1165
+# Make sure PiCAN driver is installed first https://www.skpang.co.uk/pages/install
 # 
 # Then install the following:
 # pip install python-can
